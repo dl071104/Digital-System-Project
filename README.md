@@ -4,4 +4,5 @@ Square Root Solver for Integer <br>
 <br>
 Part1: Use of M9K in memory blocks
 <br>
-PartII: Integer Square Root Computation for 8-bit unsigned binary. 
+PartII: Integer Square Root Computation for 8-bit unsigned binary. <br>
+tbsqrt: Testbench for the square root computation
